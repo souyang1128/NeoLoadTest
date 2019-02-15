@@ -1,0 +1,1 @@
+NeoLoadCmd.exe  -project D:\GitRepo\NeoLoadTestGoogle\NeoLoadTestGoogle.nlp D:\GitRepo\NeoLoadTest\scenario1.yaml -launch scenario1 -noGUI -report "C:\jenkins\workspace\myReport.xml,C:\jenkins\workspace\myReport.html" -testResultName abc-2019-02-15_09.11

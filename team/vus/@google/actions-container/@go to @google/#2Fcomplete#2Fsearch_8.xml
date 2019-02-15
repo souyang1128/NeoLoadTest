@@ -1,0 +1,126 @@
+<http-page executeResourcesDynamically="false" name="/complete/search_8"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/c07251f9-06e0-4c03-80ed-d84eb9248f5e.zip"
+    slaProfileEnabled="false" thinkTime="88"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c07251f9-06e0-4c03-80ed-d84eb9248f5e">
+    <embedded-action>0a035d87-39ff-4205-88cd-23df67837805</embedded-action>
+    <embedded-action>d7823d1c-44a3-473a-a551-a6f1caba744c</embedded-action>
+    <embedded-action>6a760e8f-8ef3-4367-a768-efcb5b89b4cb</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c07251f9-06e0-4c03-80ed-d84eb9248f5e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/xml; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/complete/search" path="/complete/search"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/c07251f9-06e0-4c03-80ed-d84eb9248f5e.zip"
+    recordedResponseCode="200" responseSize="1483"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="0a035d87-39ff-4205-88cd-23df67837805" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0a035d87-39ff-4205-88cd-23df67837805.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0a035d87-39ff-4205-88cd-23df67837805.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="q"
+        recordRawValue="www.google.co" separator="="
+        value="www.google.co" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="ie8" separator="=" value="ie8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mw"
+        recordRawValue="32765" separator="=" value="32765" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sh"
+        recordRawValue="160" separator="=" value="160" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rh"
+        recordRawValue="20" separator="=" value="20" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="inputencoding"
+        recordRawValue="UTF-8" separator="=" value="UTF-8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="outputencoding" recordRawValue="UTF-8" separator="="
+        value="UTF-8" valueMode="USE_VALUE"/>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=Q8-q3nS5Xag3dmk385mgtOm2qh-oIwcxfFuCVD-dV2K2pcQVg9Q6dckaSokO8ERMlIEkH1sQIP3mX1h_nLsinHpwtfeQ5M3Z2_bGgM74dKQCloYTz10fgWtMUacWOjF0W94BMaemX-Gof6HD0zPpcxa6DGPQm7kPeDtSq72Ny04"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Wed, 13 Feb 2019 00:08:39 GMT&#xd;
+expires: Wed, 13 Feb 2019 00:08:39 GMT&#xd;
+cache-control: private, max-age=3600&#xd;
+content-type: text/xml; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+server: gws&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2019-02-13-00; expires=Fri, 15-Mar-2019 00:08:39 GMT; path=/; domain=.google.com&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 08 Dec 2016 01:00:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/cleardot.gif" path="/images/cleardot.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/c07251f9-06e0-4c03-80ed-d84eb9248f5e.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="d7823d1c-44a3-473a-a551-a6f1caba744c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d7823d1c-44a3-473a-a551-a6f1caba744c.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d7823d1c-44a3-473a-a551-a6f1caba744c.txt</requestContentFileDescription>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=Q8-q3nS5Xag3dmk385mgtOm2qh-oIwcxfFuCVD-dV2K2pcQVg9Q6dckaSokO8ERMlIEkH1sQIP3mX1h_nLsinHpwtfeQ5M3Z2_bGgM74dKQCloYTz10fgWtMUacWOjF0W94BMaemX-Gof6HD0zPpcxa6DGPQm7kPeDtSq72Ny04"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/gif&#xd;
+content-length: 43&#xd;
+date: Wed, 13 Feb 2019 00:08:39 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Thu, 08 Dec 2016 01:00:57 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 08 Dec 2016 01:00:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/cleardot.gif" path="/images/cleardot.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/c07251f9-06e0-4c03-80ed-d84eb9248f5e.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="6a760e8f-8ef3-4367-a768-efcb5b89b4cb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6a760e8f-8ef3-4367-a768-efcb5b89b4cb.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6a760e8f-8ef3-4367-a768-efcb5b89b4cb.txt</requestContentFileDescription>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=Q8-q3nS5Xag3dmk385mgtOm2qh-oIwcxfFuCVD-dV2K2pcQVg9Q6dckaSokO8ERMlIEkH1sQIP3mX1h_nLsinHpwtfeQ5M3Z2_bGgM74dKQCloYTz10fgWtMUacWOjF0W94BMaemX-Gof6HD0zPpcxa6DGPQm7kPeDtSq72Ny04"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/gif&#xd;
+content-length: 43&#xd;
+date: Wed, 13 Feb 2019 00:08:39 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+last-modified: Thu, 08 Dec 2016 01:00:57 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

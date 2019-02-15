@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    name="/complete/search_11" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/2ba417b6-3d5e-4f5b-8369-93b8f2d82329.zip"
+    slaProfileEnabled="false" thinkTime="103"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2ba417b6-3d5e-4f5b-8369-93b8f2d82329">
+    <embedded-action>ef8bb9f4-4b1c-4358-924d-e0c6f9108f59</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2ba417b6-3d5e-4f5b-8369-93b8f2d82329.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/complete/search" path="/complete/search"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/2ba417b6-3d5e-4f5b-8369-93b8f2d82329.zip"
+    recordedResponseCode="200" responseSize="497"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="ef8bb9f4-4b1c-4358-924d-e0c6f9108f59" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ef8bb9f4-4b1c-4358-924d-e0c6f9108f59</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ef8bb9f4-4b1c-4358-924d-e0c6f9108f59.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="q"
+        recordRawValue="si" separator="=" value="si" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cp"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="psy-ab" separator="=" value="psy-ab" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="xssi"
+        recordRawValue="t" separator="=" value="t" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_ri"
+        recordRawValue="gws-wiz" separator="=" value="gws-wiz" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="psi"
+        recordRawValue="CGBjXLO4Kunv9AP9jI6ICw.1550016521141"
+        separator="=" value="CGBjXLO4Kunv9AP9jI6ICw.1550016521141" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI; OGPC=19008569-1:"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Wed, 13 Feb 2019 00:08:46 GMT&#xd;
+expires: Wed, 13 Feb 2019 00:08:46 GMT&#xd;
+cache-control: private, max-age=3600&#xd;
+content-type: application/json; charset=UTF-8&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: gzip&#xd;
+server: gws&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

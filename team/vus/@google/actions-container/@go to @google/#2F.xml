@@ -1,0 +1,114 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/a24eeb13-feeb-4eb1-8e40-44e47a6ebabf.zip"
+    slaProfileEnabled="false" thinkTime="1157"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a24eeb13-feeb-4eb1-8e40-44e47a6ebabf">
+    <embedded-action>ceb2b8cc-b2aa-4040-a841-01fdfa613be3</embedded-action>
+    <embedded-action>a61f0d9f-f554-4715-8c8b-fa5cc5580645</embedded-action>
+    <embedded-action>cb48366e-6250-4af5-8efa-a1e8b0a5ad91</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a24eeb13-feeb-4eb1-8e40-44e47a6ebabf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/a24eeb13-feeb-4eb1-8e40-44e47a6ebabf.zip"
+    recordedResponseCode="200" responseSize="221835"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="ceb2b8cc-b2aa-4040-a841-01fdfa613be3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ceb2b8cc-b2aa-4040-a841-01fdfa613be3.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ceb2b8cc-b2aa-4040-a841-01fdfa613be3.txt</requestContentFileDescription>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=Q8-q3nS5Xag3dmk385mgtOm2qh-oIwcxfFuCVD-dV2K2pcQVg9Q6dckaSokO8ERMlIEkH1sQIP3mX1h_nLsinHpwtfeQ5M3Z2_bGgM74dKQCloYTz10fgWtMUacWOjF0W94BMaemX-Gof6HD0zPpcxa6DGPQm7kPeDtSq72Ny04"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="text/html, application/xhtml+xml, image/jxr, */*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Wed, 13 Feb 2019 00:08:40 GMT&#xd;
+expires: -1&#xd;
+cache-control: private, max-age=0&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+p3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."&#xd;
+content-encoding: gzip&#xd;
+server: gws&#xd;
+content-length: 70575&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2019-02-13-00; expires=Fri, 15-Mar-2019 00:08:40 GMT; path=/; domain=.google.com&#xd;
+set-cookie: NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI; expires=Thu, 15-Aug-2019 00:08:40 GMT; path=/; domain=.google.com; HttpOnly&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 08 Dec 2016 01:00:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/hpp/Chrome_Owned_96x96.png"
+    path="/images/hpp/Chrome_Owned_96x96.png" postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/a24eeb13-feeb-4eb1-8e40-44e47a6ebabf.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="a61f0d9f-f554-4715-8c8b-fa5cc5580645" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a61f0d9f-f554-4715-8c8b-fa5cc5580645.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a61f0d9f-f554-4715-8c8b-fa5cc5580645.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/png&#xd;
+content-length: 6177&#xd;
+date: Wed, 13 Feb 2019 00:08:40 GMT&#xd;
+expires: Wed, 13 Feb 2019 00:08:40 GMT&#xd;
+cache-control: private, max-age=31536000&#xd;
+last-modified: Thu, 08 Dec 2016 01:00:57 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 08 Dec 2016 01:00:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    path="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/a24eeb13-feeb-4eb1-8e40-44e47a6ebabf.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="cb48366e-6250-4af5-8efa-a1e8b0a5ad91" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cb48366e-6250-4af5-8efa-a1e8b0a5ad91.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cb48366e-6250-4af5-8efa-a1e8b0a5ad91.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/png&#xd;
+content-length: 13504&#xd;
+date: Wed, 13 Feb 2019 00:08:40 GMT&#xd;
+expires: Wed, 13 Feb 2019 00:08:40 GMT&#xd;
+cache-control: private, max-age=31536000&#xd;
+last-modified: Thu, 08 Dec 2016 01:00:57 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

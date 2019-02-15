@@ -1,0 +1,50 @@
+<http-page dynamicAction="6b71b23b-8d3c-4210-9763-3fb1ee787284"
+    enabled="false" executeResourcesDynamically="true"
+    name="/complete/search_2" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/bfeb9f5a-09ed-438e-8913-2bb9631564cc.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bfeb9f5a-09ed-438e-8913-2bb9631564cc">
+    <embedded-action>fcbba904-c9e0-491e-8c01-32f686a2788b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_bfeb9f5a-09ed-438e-8913-2bb9631564cc.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/complete/search" path="/complete/search"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/bfeb9f5a-09ed-438e-8913-2bb9631564cc.zip"
+    recordedResponseCode="400" responseSize="1555"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="fcbba904-c9e0-491e-8c01-32f686a2788b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fcbba904-c9e0-491e-8c01-32f686a2788b.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fcbba904-c9e0-491e-8c01-32f686a2788b.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US"/>
+    <header name="cache-control" value="no-cache"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 400&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+date: Wed, 13 Feb 2019 00:08:37 GMT&#xd;
+server: gws&#xd;
+content-length: 1555&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-dynamic-resources-action actionType="1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6" name=""
+    path="&lt;dynamic resources>" postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/bfeb9f5a-09ed-438e-8913-2bb9631564cc.zip"
+    slaProfileEnabled="false" uid="6b71b23b-8d3c-4210-9763-3fb1ee787284" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6b71b23b-8d3c-4210-9763-3fb1ee787284</responsePageFileDescription>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-dynamic-resources-action>

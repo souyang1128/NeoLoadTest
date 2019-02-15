@@ -1,0 +1,84 @@
+<http-page executeResourcesDynamically="false"
+    name="/_/scs/abc-static/_/js/k=gapi.gapi.en.Qyhlf-E27OQ.O/m=gapi_iframes,googleapis_client,plusone/rt"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/261d17e3-b774-40d9-8fa4-80f39e43acc4.zip"
+    slaProfileEnabled="false" thinkTime="597"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="261d17e3-b774-40d9-8fa4-80f39e43acc4">
+    <embedded-action>ac351e07-19b8-4b50-94e6-2bffc0227561</embedded-action>
+    <embedded-action>867ae59f-effc-4a12-9cd8-b49517d67089</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_261d17e3-b774-40d9-8fa4-80f39e43acc4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 21 Jan 2019 15:15:43 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_/scs/abc-static/_/js/k=gapi.gapi.en.Qyhlf-E27OQ.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_77KcTN4WVhdQMqIfKBMTqlRW8yg/cb=gapi.loaded_0"
+    path="/_/scs/abc-static/_/js/k=gapi.gapi.en.Qyhlf-E27OQ.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/rs=AHpOoo_77KcTN4WVhdQMqIfKBMTqlRW8yg/cb=gapi.loaded_0"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/261d17e3-b774-40d9-8fa4-80f39e43acc4.zip"
+    recordedResponseCode="200" responseSize="139394"
+    serverUid="apis.google.com" slaProfileEnabled="false"
+    uid="ac351e07-19b8-4b50-94e6-2bffc0227561" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ac351e07-19b8-4b50-94e6-2bffc0227561</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ac351e07-19b8-4b50-94e6-2bffc0227561.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="cookie" value="1P_JAR=2019-02-13-00; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="application/javascript, */*;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+content-length: 48170&#xd;
+date: Tue, 22 Jan 2019 15:42:43 GMT&#xd;
+expires: Wed, 22 Jan 2020 15:42:43 GMT&#xd;
+last-modified: Mon, 21 Jan 2019 15:15:43 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 1844759&#xd;
+alt-svc: quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 08 Dec 2016 01:00:57 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/261d17e3-b774-40d9-8fa4-80f39e43acc4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="867ae59f-effc-4a12-9cd8-b49517d67089" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_867ae59f-effc-4a12-9cd8-b49517d67089</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_867ae59f-effc-4a12-9cd8-b49517d67089.txt</requestContentFileDescription>
+    <header name="cookie" value="1P_JAR=2019-2-13-0; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI; OGPC=19008569-1:"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: image/x-icon&#xd;
+content-length: 1494&#xd;
+date: Tue, 05 Feb 2019 01:56:17 GMT&#xd;
+expires: Wed, 13 Feb 2019 01:56:17 GMT&#xd;
+last-modified: Thu, 08 Dec 2016 01:00:57 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 1; mode=block&#xd;
+cache-control: public, max-age=691200&#xd;
+age: 684745&#xd;
+alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

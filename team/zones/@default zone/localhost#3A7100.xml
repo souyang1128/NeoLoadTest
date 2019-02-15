@@ -1,0 +1,36 @@
+<lg-host hostname="localhost:7100" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="true"
+    uid="807f5106-c889-4d48-90cb-52b6a33349ea" version="6.8.0;build=20190103-16">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface
+        description="Intel(R) Ethernet Connection (2) I219-LM"
+        enabled="false" isLoopBack="false" name="eth6">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="so-desktop.rsi">
+            <ip value="10.21.21.116"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth6">
+            <ip value="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth6"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="demo.com">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Hyper-V Virtual Ethernet Adapter #2"
+        enabled="false" isLoopBack="false" name="eth22">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="so-desktop.rsi">
+            <ip value="10.0.75.1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

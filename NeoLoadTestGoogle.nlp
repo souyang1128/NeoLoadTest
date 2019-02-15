@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=NeoLoadTestGoogle
+project.version=6.5
+project.original.version=6.5
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.8.0
+project.id=2f2a9fc7-3e47-46f7-94b5-21729ea47c74
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/souyang1128/NeoLoadTest

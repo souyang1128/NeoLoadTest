@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click Search" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="f8a02bb4-f4c2-4216-b58b-95959649b911" weightsEnabled="false">
+    <weighted-embedded-action uid="bd1b3c52-10fa-49f0-a573-da495ccde038"/>
+    <weighted-embedded-action uid="dc15f5e6-9964-4c79-b789-ccc162573435"/>
+    <weighted-embedded-action uid="da5554c7-c39f-482b-912f-f1712cd167d9"/>
+    <weighted-embedded-action uid="981e1710-2b87-4d07-9e9c-e6adc416296d"/>
+    <weighted-embedded-action uid="a69a852a-fd07-4f39-9839-3ecddd073bc9"/>
+    <weighted-embedded-action uid="e7e7abf0-ddf7-48aa-9f2c-5308f171c2b7"/>
+    <weighted-embedded-action uid="3d3b84a2-323a-4aea-b8c7-ac368a2d1fe7"/>
+    <weighted-embedded-action uid="f6b53b86-915c-4b7d-9017-a0c01930b35a"/>
+    <weighted-embedded-action uid="6a8ebce4-aa0f-4f3f-9efc-3bdf9ac2b559"/>
+</basic-logical-action-container>

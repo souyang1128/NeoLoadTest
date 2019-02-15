@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false" name="/adsid/google/ui"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/433da2c9-ae5b-420f-82be-9bf77d144d2c.zip"
+    slaProfileEnabled="false" thinkTime="336"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="433da2c9-ae5b-420f-82be-9bf77d144d2c">
+    <embedded-action>0234316d-3424-432f-a53f-905c83d1c87d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_433da2c9-ae5b-420f-82be-9bf77d144d2c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/adsid/google/ui" path="/adsid/google/ui"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/433da2c9-ae5b-420f-82be-9bf77d144d2c.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="adservice.google.com" slaProfileEnabled="false"
+    uid="0234316d-3424-432f-a53f-905c83d1c87d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0234316d-3424-432f-a53f-905c83d1c87d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0234316d-3424-432f-a53f-905c83d1c87d.txt</requestContentFileDescription>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="cookie" value="1P_JAR=2019-2-13-0; NID=158=EIbEwzIgSsprtg3QjLDF7NrUz3N4Mj9bNaS45_T_cqs1PFggbEQeD_5_b2kgRo-joOREwaS96GQB5pffDHTvXYiJsGBVZFZVUjuaw6bgP6koxS9ATImQq76QZuFfOKs5IJ8OoPnAZVrAdlJYK5HeU5iuT7H0qvkIVwghA9rSlbI; OGPC=19008569-1:"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+p3p: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657 for more info."&#xd;
+timing-allow-origin: *&#xd;
+cache-control: private, max-age=15&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+date: Wed, 13 Feb 2019 00:08:43 GMT&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 1; mode=block&#xd;
+alt-svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="44,43,39",quic=":443"; ma=2592000; v="44,43,39"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
