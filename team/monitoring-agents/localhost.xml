@@ -3,13 +3,13 @@
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface
         description="Intel(R) Ethernet Connection (2) I219-LM"
-        enabled="false" isLoopBack="false" name="eth6">
+        enabled="false" isLoopBack="false" name="eth8">
         <!--****** LG ADDRESSES ******-->
         <lg-address enabled="false" hostname="so-desktop.rsi">
             <ip value="10.21.21.116"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth6">
-            <ip value="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth6"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth8">
+            <ip value="fe80:0:0:0:f86f:58d:cdf7:ed6f%eth8"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
@@ -25,10 +25,13 @@
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
     <lg-networkiface description="Hyper-V Virtual Ethernet Adapter #2"
-        enabled="false" isLoopBack="false" name="eth22">
+        enabled="false" isLoopBack="false" name="eth0">
         <!--****** LG ADDRESSES ******-->
         <lg-address enabled="false" hostname="so-desktop.rsi">
             <ip value="10.0.75.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:d0b0:3c2f:ab9a:ea18%eth0">
+            <ip value="fe80:0:0:0:d0b0:3c2f:ab9a:ea18%eth0"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>

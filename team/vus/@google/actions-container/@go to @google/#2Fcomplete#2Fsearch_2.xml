@@ -44,7 +44,6 @@ alt-svc: quic=":443"; ma=2592000; v="46,45,44,43,39"</responseHeaders>
     path="&lt;dynamic resources>" postType="1"
     recordedArtifactZipFileName="team/vus/@google/%resources%/recorded-artifacts/bfeb9f5a-09ed-438e-8913-2bb9631564cc.zip"
     slaProfileEnabled="false" uid="6b71b23b-8d3c-4210-9763-3fb1ee787284" useKeepAlive="false">
-    <responsePageFileDescription>recorded-responses/res_6b71b23b-8d3c-4210-9763-3fb1ee787284</responsePageFileDescription>
     <responseHeaders/>
     <record-html-infos extractorRegExp="false" htmlType="0"/>
 </http-dynamic-resources-action>
